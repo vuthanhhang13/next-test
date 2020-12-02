@@ -1,0 +1,38 @@
+.box{
+    font-size: 0.8rem;
+    font-weight: 400;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    margin-left: 17px;
+    margin-top: 10px;
+}
+.hop{
+    width: 28%;
+    height: auto;
+    background-color: #F7F7F7;
+    border-radius: 5px;
+    /* margin-top: 10px; */
+    cursor: pointer;
+    padding: 0px 6px ;
+    padding-top: 12px;
+    margin: 0;
+    margin-bottom: 20px;
+    margin-left: 13px;
+}
+.hop:hover {
+    background-color: #fff ;
+}
+.one{
+    font-weight: 500;
+    margin: 0;
+}
+.two{
+    color:#424242;
+    margin-top: 7px;
+}
+
+.check {
+    border: 1px solid #009e7f;
+    background-color: #fff ;
+}

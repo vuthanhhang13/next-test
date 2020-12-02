@@ -1,0 +1,21 @@
+.demo{
+    width: 40px;
+    height: 100px;
+    background: linear-gradient(to top right, #51aebd,#009e7f,#3d9871,#38935e);
+    float: right;
+    margin-top: -960px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 6px ;
+    border-bottom-left-radius: 6px;
+    /* position: sticky; */
+    
+}
+.demo p{
+    margin: 0;
+    color: #E6E6E6;
+    font-size: 12px;
+    font-weight: 600;
+}
